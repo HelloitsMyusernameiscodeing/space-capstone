@@ -1,0 +1,30 @@
+img{
+    height: 29%;
+    width:29%;
+    border: 29px;
+    border-style: groove;
+    border-color: yellow;
+}
+#a{
+  font-style: italic;
+  font-family: sans-serif;
+  border: 50%;
+  border-style: double;
+  border-color: black ;
+}
+#Header{
+  font-style: italic;
+  font-family: sans-serif;
+}
+#blackholes{
+ font-family: sans-serif;
+ font-style: italic;
+}
+#head1{
+  font-family: sans-serif;
+  font-style: italic;
+}
+#head2{
+  font-family: sans-serif;
+  font-style: italic;
+}
